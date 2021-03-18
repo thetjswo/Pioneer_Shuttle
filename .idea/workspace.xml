@@ -6,9 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="343c2a6c-213a-497a-8dac-c19af409fb49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_screen.xml" afterDir="false" />
-    </list>
+    <list default="true" id="343c2a6c-213a-497a-8dac-c19af409fb49" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,8 +37,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
@@ -121,24 +121,40 @@
       <option name="presentableId" value="Default" />
       <updated>1616074090285</updated>
     </task>
+    <task id="LOCAL-00001" summary="first work">
+      <created>1616085856760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616085856760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first work" />
+    <option name="LAST_COMMIT_MESSAGE" value="first work" />
   </component>
   <component name="WindowStateProjectService">
     <state x="427" y="235" key="AndroidCreateResourceFileDialog" timestamp="1616074502224">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="427" y="235" key="AndroidCreateResourceFileDialog/0.23.1440.811@0.23.1440.811" timestamp="1616074502224" />
-    <state x="228" y="23" key="CommitChangelistDialog2" timestamp="1616085695506">
+    <state x="228" y="23" key="CommitChangelistDialog2" timestamp="1616085856051">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="228" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1616085695506" />
-    <state x="566" y="328" key="Github.ShareDialog" timestamp="1616085639852">
+    <state x="228" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1616085856051" />
+    <state x="566" y="328" key="Github.ShareDialog" timestamp="1616085937062">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="566" y="328" key="Github.ShareDialog/0.23.1440.811@0.23.1440.811" timestamp="1616085639852" />
+    <state x="566" y="328" key="Github.ShareDialog/0.23.1440.811@0.23.1440.811" timestamp="1616085937062" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1616085401845">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1616085401845" />
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2" timestamp="1616085895780">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1616085895780" />
   </component>
 </project>
