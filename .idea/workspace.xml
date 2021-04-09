@@ -25,14 +25,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="343c2a6c-213a-497a-8dac-c19af409fb49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pioneer_shuttle/Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/schedule.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pioneer_shuttle/Main_Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pioneer_shuttle/Main_Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pioneer_shuttle/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pioneer_shuttle/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/main_screen4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/map.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/map.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Q_Pixel_2_]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -42,8 +60,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="layoutResourceFile" />
-        <option value="Class" />
+        <option value="Interface" />
         <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,7 +70,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pvqp2CC9y7pO5QydkubIAq9Bf8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,12 +82,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/Users/leeseonjae/Library/Android/sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-preview/Users/leeseonjae/Library/Android/sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.pioneer_shuttle" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\cu_bo\Pioneer_Shuttle\app\src\main\res\drawable-v24" />
     </key>
@@ -175,11 +207,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="first work" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="569" y="272" key="AndroidCreateResourceFileDialog" timestamp="1616137323787">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="354" y="110" key="#Inspections" timestamp="1616683430456">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="354" y="110" key="#Inspections/0.23.1440.814@0.23.1440.814" timestamp="1616683430456" />
+    <state x="245" y="163" key="#PSD" timestamp="1616681418105">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="245" y="163" key="#PSD/0.23.1440.812@0.23.1440.812" timestamp="1616659408348" />
+    <state x="245" y="163" key="#PSD/0.23.1440.814@0.23.1440.814" timestamp="1616681418105" />
+    <state x="401" y="23" key="#app" timestamp="1617935999957">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="401" y="23" key="#app/0.23.1440.812@0.23.1440.812" timestamp="1617935999957" />
+    <state x="427" y="235" key="AndroidCreateResourceFileDialog" timestamp="1616921428103">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="569" y="272" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616137323787" />
-    <state x="427" y="235" key="AndroidCreateResourceFileDialog/0.23.1440.811@0.23.1440.811" timestamp="1616074502224" />
+    <state x="427" y="235" key="AndroidCreateResourceFileDialog/0.23.1440.811@0.23.1440.811" timestamp="1616656644567" />
+    <state x="427" y="235" key="AndroidCreateResourceFileDialog/0.23.1440.812@0.23.1440.812" timestamp="1616921428103" />
+    <state x="427" y="236" key="AndroidCreateResourceFileDialog/0.23.1440.814@0.23.1440.814" timestamp="1616679539897" />
     <state x="228" y="23" key="CommitChangelistDialog2" timestamp="1616085856051">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
@@ -188,17 +235,43 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="566" y="328" key="Github.ShareDialog/0.23.1440.811@0.23.1440.811" timestamp="1616085937062" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1616085401845">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="698" height="206" key="GridCell.Tab.0.bottom" timestamp="1617845827463">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="698" height="206" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1617519373489" />
+    <state width="698" height="206" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1617845827463" />
+    <state width="698" height="206" key="GridCell.Tab.0.center" timestamp="1617845827462">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="698" height="206" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1617519373488" />
+    <state width="698" height="206" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1617845827462" />
+    <state width="698" height="206" key="GridCell.Tab.0.left" timestamp="1617845827461">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="698" height="206" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1617519373487" />
+    <state width="698" height="206" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1617845827461" />
+    <state width="698" height="206" key="GridCell.Tab.0.right" timestamp="1617845827463">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="698" height="206" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1617519373488" />
+    <state width="698" height="206" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1617845827463" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1616680289516">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1616085401845" />
-    <state x="320" y="164" key="Vcs.Push.Dialog.v2" timestamp="1616085895780">
+    <state x="221" y="63" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1616680289516" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1616976724654">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="320" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1616085895780" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1616976724654" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1616914098802" />
     <state x="754" y="297" key="chooseDestDirectoryDialog" timestamp="1616214278082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="754" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616214278082" />
+    <state x="382" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617811874147">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="382" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.814@0.23.1440.814" timestamp="1617811874147" />
   </component>
 </project>
